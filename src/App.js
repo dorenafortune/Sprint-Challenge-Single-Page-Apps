@@ -5,7 +5,7 @@ import CharacterList from "./components/CharacterList"
 import { Route } from "react-router-dom"
 import WelcomePage from "./components/WelcomePage"
 import Nav from "./components/Nav"
-
+import SearchForm from "./components/SearchForm"
 
 
 export default function App() {
@@ -21,6 +21,8 @@ export default function App() {
      <Route exact path ="/" component={WelcomePage}/>
 
       <Route path = "/characters" component={CharacterList}/>
+      
+      <Route path ="/search" component={SearchForm}/>
       
   
 

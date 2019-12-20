@@ -11,6 +11,7 @@ const Nav = () => {
           <div>
               <Link to ="characters">Characters</Link>
           </div>
+          <Link to ="search">Search</Link>
           </div>
          
     
