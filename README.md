@@ -29,6 +29,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+One of the biggest benefits of using client side routing is that the page won't refresh. This ultimately makes for a better user experience. Not only that, but routing between views tends to be faster and the transitions between views are easier to implement.
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
