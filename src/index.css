@@ -37,3 +37,15 @@ main {
 header h1 {
   text-align: center;
 }
+
+.character-list{
+  text-align:center;
+}
+.search-form{
+  text-align:center;
+  
+}
+
+.welcome-page{
+  text-align:center;
+}
